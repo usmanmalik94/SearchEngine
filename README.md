@@ -1,4 +1,4 @@
-#SearchEngine
+SearchEngine
 
 (Search Engine) Advance Computing Concepts Project
 
@@ -14,7 +14,7 @@ Frameworks used:
   1) Spring Boot
   2) Spring MVC
   3) Spring IOC
-  4)Log4J 2
+  4) Log4J 2
   5) Bootstrap
   6) Template Engine: Thymeleaf
   7) Maven (Project Management And Comprehension Tool)
